@@ -101,7 +101,7 @@ View results
 
 Passwords are securely hashed using BCrypt before being stored in the database.
 
-🌐 Swagger API Testing
+ Swagger API Testing
 
 Swagger UI was used to test all API endpoints.
 
@@ -146,9 +146,9 @@ Plain Text
 Passed: 6
 Failed: 0
 
-📷 Insert Unit Test Screenshot Here
 
-🗄 Database Verification
+
+
 
 The following tables were successfully created in SQL Server:
 
