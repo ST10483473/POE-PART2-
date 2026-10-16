@@ -253,6 +253,4 @@ POE_PART2_.Tests
 
 The RaceDay API successfully implements a fully functional RESTful API for managing motorsport race events. The system integrates SQL Server, Entity Framework Core, Swagger documentation, role-based authorisation, password security using BCrypt, and automated unit testing to provide a secure and scalable event management platform.
 
-This README should put you comfortably in the "Greatly Exceeds the Required Standard" column for the README section of the rubric once you've added your screenshots and video link. 
-
-Provide your feedback on BizChat
+YOUTUBE VIDEO LINK: https://youtu.be/EEOGx2oX_0c
