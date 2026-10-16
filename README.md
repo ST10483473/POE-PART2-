@@ -162,7 +162,7 @@ __EFMigrationsHistory
 
 
 
-🚀 Running the Application
+ Running the Application
 Step 1
 
 Clone the repository:
@@ -208,7 +208,7 @@ Participants
 Mary Driver
 Sam Rider
 David Racer
-🎥 Video Demonstration
+ Video Demonstration
 
 The video demonstrates:
 
@@ -220,11 +220,11 @@ Authentication
 SQL Server tables
 Unit testing results
 
-📺 Video Link:
+ Video Link:
 
 Plain Text
 Paste YouTube Link Here
-📁 Repository Structure
+Repository Structure
 Plain Text
 POE_PART2_
 │
